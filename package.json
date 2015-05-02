@@ -1,0 +1,23 @@
+{
+  "name": "the-gnl-tao-te-ching",
+  "version": "0.1.0",
+  "description": "The GNL Tao Te Ching",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanstilwell/the-gnl-tao-te-ching.git"
+  },
+  "author": "Nathan Stilwell",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/nathanstilwell/the-gnl-tao-te-ching/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-webserver": "^0.9.0",
+    "require-dir": "^0.3.0"
+  }
+}
